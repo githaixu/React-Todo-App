@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iBACE,QAAS,CACT,SAAU,CACV,qBACF,CACA,WACE,eAAgB,CAChB,aACF,CACA,KACE,kBACF","file":"main.225209ae.chunk.css","sourcesContent":["*, *:before, *:after {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n.container {\n  max-width: 960px;\n  margin: 0 auto;\n}\nbody {\n  background: ghostwhite\n}"]}
